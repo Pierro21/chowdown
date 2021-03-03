@@ -1,9 +1,9 @@
 ---
 
 layout: recipe
-title:  "Sauté de veau aux carottes"
+title:  "Saute de veau aux carottes"
 image: saute-de-veau-carottes.jpeg
-tags: viande, plat, sauce, légumes
+tags: viande, plat, sauce, legumes
 
 ingredients:
 - 600g de veau (pour sauté) -> 200g par personne pour gros mangeurs
@@ -34,8 +34,7 @@ directions:
 - Ajouter la viande quand les carottes sont cuites, au dernier moment dans la cocotte pour la réchauffer
 - Retirer le bouquet garni
 - Réctifier le sel et le poivre
-
-Bon Appétit
+- Bon Appétit
 ---
 
 De Chris
