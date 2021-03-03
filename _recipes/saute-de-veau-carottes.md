@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Sauté de veau aux carottes"
-image: banana-bread.jpg
+image: saute-de-veau-carottes.jpeg
 tags: viande, plat, sauce, légumes
 
 ingredients:
