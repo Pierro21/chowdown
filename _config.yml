@@ -33,6 +33,10 @@ translation:
     search: "Search"
     blog: "Blog"
     subscribe: "Subscribe"
+    cooking-time: "Cooking Time"
+    preparation-time: "Preparation Time"
+    total-time: "Total Time"
+    
   de:
     components: "Komponenten"
     ingredients: "Zutaten"
@@ -43,3 +47,8 @@ translation:
     search: "Suche"
     blog: "Blog"
     subscribe: "Abonnieren"
+    cooking-time: "Cooking Time"
+    preparation-time: "Preparation Time"
+    total-time: "Total Time"
+
+    
