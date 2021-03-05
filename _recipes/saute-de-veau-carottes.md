@@ -7,7 +7,6 @@ tags: viande, plat, sauce, legumes
 
 time-cooking: 65
 time-preparation: 30
-time-total: 1h35
 
 ingredients:
 - 600g de veau (pour sauté) -> 200g par personne pour gros mangeurs
