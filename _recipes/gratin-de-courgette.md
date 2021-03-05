@@ -1,8 +1,7 @@
 ---
 
 layout: recipe
-title:  "Sauté de veau aux carottes"
-image: saute-de-veau-carottes.jpeg
+title:  "Gratin de courgettes"
 tags: viande, plat, sauce, legumes
 
 time-cooking: 15
